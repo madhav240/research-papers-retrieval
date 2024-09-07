@@ -4,6 +4,8 @@
 3. npm install
 4. npm run dev
 
+Try entering numbers like 1 or 2 or 3 or others in the search box.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
