@@ -13,8 +13,6 @@ export default function PaperCard({ paper }: { paper: PaperType }) {
     } else {
       setSavedPapers(savedPapers.concat(paper));
     }
-
-    localStorage.setItem("papers", JSON.stringify(savedPapers));
   }
 
   return (
